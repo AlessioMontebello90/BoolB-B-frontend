@@ -1,7 +1,10 @@
-# Vue 3 + Vite
+BOOLb&b
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Vista utente progetto finale
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+vista utente del progetto di fine corso in Boolean. è stata una esperienza formativa sia sul lato tecnico che organizzativo essendo stato svolto in collaborazione con altri 3 colleghi.
+il progetto richiedeva di costruire un sito simile ad AirBnb con tanto di chiamate alle API per pagamenti e geolocalizzazione.
+
+
+![1702550646461](https://github.com/AlessioMontebello90/BoolB-B-frontend/assets/134722770/9576a6ad-fdb1-4779-843d-ea5ecf782f98)
